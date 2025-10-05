@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "User unable to login with correct credentials",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway error",
+    "description": "Customer unable to complete payment via PayPal",
+    "customer": "Alice Smith",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-20T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Mobile app crash",
+    "description": "App crashes when opening profile page",
+    "customer": "David Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-21T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Email not received",
+    "description": "Customer did not receive verification email",
+    "customer": "Sophia Brown",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-21T12:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slow website",
+    "description": "Homepage takes too long to load",
+    "customer": "Michael Green",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-22T08:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Password reset not working",
+    "description": "Reset link expired before use",
+    "customer": "Emma Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-22T14:10:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Order not showing",
+    "description": "Recent order not visible in order history",
+    "customer": "Chris Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23T07:55:00Z"
+  },
+  {
+    "id": 8,
+    "title": "UI alignment issue",
+    "description": "Buttons not aligned properly on checkout page",
+    "customer": "Olivia Martin",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-23T15:25:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Notification bug",
+    "description": "Push notifications not received on Android",
+    "customer": "Daniel White",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24T10:05:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Report download failed",
+    "description": "Customer cannot download monthly report",
+    "customer": "Sophia Adams",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-24T17:40:00Z"
+  }
+]
