@@ -13,7 +13,7 @@ const datafetch = async () => {
   return result.json()
 }
 function App() {
-  const promiseData = datafetch();
+  // const promiseData = datafetch();
 
   
   return (
